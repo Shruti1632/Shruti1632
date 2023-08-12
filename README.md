@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
 
 👩‍🎓 Welcome to my GitHub profile! I'm Shruti Pawar, a passionate web developer on a journey to craft immersive digital experiences. With a blend of creativity, code, and coffee, I strive to turn ideas into beautifully functional websites and applications.
 
