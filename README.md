@@ -22,7 +22,7 @@
 
 
 ### Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=,html,css,js,java,py,mysql,androidstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=,html,css,js,java,py,mongodb,mysql,ai,vscode,androidstudio,eclipse)](https://skillicons.dev)
 
 
 
