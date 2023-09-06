@@ -15,3 +15,7 @@
 ⌨️ GitHub provides me with the perfect platform to collaborate, learn, and contribute to the vibrant developer community. Let's connect, collaborate, and create something extraordinary together! 🌟
 
 "Turning caffeine into code, one line at a time." 🚀👨‍💻
+
+
+![image](https://github.com/Shruti1632/Shruti1632/assets/104548800/61deea00-4348-4b75-b3bb-5ded3ebdf76e)
+
