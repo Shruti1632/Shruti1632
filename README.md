@@ -1,3 +1,4 @@
+![Github gif](https://github.com/Shruti1632/Shruti1632/assets/104548800/61f845d4-e1e0-4b80-b7d0-82e599b2b008)
 ### Hi there! 👋
 
 👩‍🎓 Welcome to my GitHub profile! I'm Shruti Pawar, a passionate web developer on a journey to craft immersive digital experiences. With a blend of creativity, code, and coffee, I strive to turn ideas into beautifully functional websites and applications.
