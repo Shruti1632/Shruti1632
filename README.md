@@ -17,5 +17,5 @@
 
 "Turning caffeine into code, one line at a time." 🚀👨‍💻
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shruti1632&theme=tokyonight-duo&hide_border=true&date_format=j%20M%5B%20Y%5D&type=png)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shruti1632&theme=holi-theme&hide_border=true&date_format=j%20M%5B%20Y%5D&type=png)](https://git.io/streak-stats)
 
