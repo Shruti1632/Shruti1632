@@ -16,6 +16,5 @@
 
 "Turning caffeine into code, one line at a time." 🚀👨‍💻
 
-
-![image](https://github.com/Shruti1632/Shruti1632/assets/104548800/61deea00-4348-4b75-b3bb-5ded3ebdf76e)
+"C:\Users\shrut\Downloads\Github gif.gif"
 
