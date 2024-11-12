@@ -28,5 +28,4 @@
 
 
 
-### Shruti's Github Stats
-[![Shruti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shruti1632)](https://github.com/Shruti1632/github-readme-stats)
+
