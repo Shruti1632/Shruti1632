@@ -22,8 +22,11 @@
 
 
 ### Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=,gcp,linux,anaconda,arduino,django,flask,gradle,kali,kubernetes,wordpress,html,css,java,js,py,c,mongodb,mysql,vscode,androidstudio,firebase,eclipse,git,angular,nodejs,php,raspberrypi,stackoverflow,ubuntu)](https://skillicons.dev)
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gcp,linux,anaconda,arduino,django,flask,gradle,kali,kubernetes,wordpress,html,css,java,js,py,c,mongodb,mysql,vscode,androidstudio,firebase,eclipse,git,angular,nodejs,php,raspberrypi,stackoverflow,ubuntu" />
+  </a>
+</p>
 
 
 
