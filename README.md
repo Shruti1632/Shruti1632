@@ -34,6 +34,3 @@
     <img src="https://skillicons.dev/icons?i=gcp,linux,arduino,django,flask,gradle,kali,kubernetes,wordpress,html,css,java,js,py,c,r,aws,mongodb,mysql,vscode,androidstudio,firebase,eclipse,git,angular,nodejs,php,raspberrypi,stackoverflow,ubuntu" />
   </a>
 </p>
-
-https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif
-
