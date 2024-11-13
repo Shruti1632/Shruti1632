@@ -34,3 +34,7 @@
     <img src="https://skillicons.dev/icons?i=gcp,linux,arduino,django,flask,gradle,kali,kubernetes,wordpress,html,css,java,js,py,c,r,aws,mongodb,mysql,vscode,androidstudio,firebase,eclipse,git,angular,nodejs,php,raspberrypi,stackoverflow,ubuntu" />
   </a>
 </p>
+
+              - name: generate-snake-game-from-github-contribution-grid
+                uses: Platane/snk@v3.2.0
+            
