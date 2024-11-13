@@ -28,15 +28,14 @@
 
 ### Languages and Tools
 
-
-
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=gcp,linux,arduino,django,flask,gradle,kali,kubernetes,wordpress,html,css,java,js,py,c,r,aws,mongodb,mysql,vscode,androidstudio,firebase,eclipse,git,angular,nodejs,php,raspberrypi,stackoverflow,ubuntu" />
   </a>
 </p>
 
+
+### My Activity Graph
 
 [![Shruti's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shruti1632&bg_color=0d0e12&color=1c81ce&line=0f1129&point=079ae4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
