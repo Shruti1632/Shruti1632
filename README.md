@@ -36,6 +36,6 @@
 </p>
 
 
-http://Shruti1632-summary-cards.vercel.app/api/cards/profile-details?username={Shruti1632}&theme={2077}
+
 
 
