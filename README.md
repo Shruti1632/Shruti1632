@@ -1,4 +1,9 @@
 ![Github gif](https://github.com/Shruti1632/Shruti1632/assets/104548800/61f845d4-e1e0-4b80-b7d0-82e599b2b008)
+
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
+[![GitHub watchers](https://badgen.net/github/watchers/Naereen/Strapdown.js/)](https://GitHub.com/Naereen/StrapDown.js/watchers/)
+
 ### Hi there! 👋
 
 👩‍🎓 Welcome to my GitHub profile! I'm Shruti Pawar, a passionate web developer on a journey to craft immersive digital experiences. With a blend of creativity, code, and coffee, I strive to turn ideas into beautifully functional websites and applications.
@@ -33,10 +38,6 @@
 </p>
 
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
-[![GitHub commits](https://badgen.net/github/commits/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/commit/)
-[![GitHub watchers](https://badgen.net/github/watchers/Naereen/Strapdown.js/)](https://GitHub.com/Naereen/StrapDown.js/watchers/)
 
 
 
