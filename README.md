@@ -1,9 +1,9 @@
 ![Github gif](https://github.com/Shruti1632/Shruti1632/assets/104548800/61f845d4-e1e0-4b80-b7d0-82e599b2b008)
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Shruti1632/ama)
 [![GitHub watchers](https://badgen.net/github/watchers/Shruti1632/Strapdown.js/)](https://GitHub.com/Shruti1632/StrapDown.js/watchers/)
-[![GitHub commits](https://badgen.net/github/commits/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/commit/)
+[![GitHub commits](https://badgen.net/github/commits/Shruti1632/Strapdown.js)](https://GitHub.com/Shruti1632/StrapDown.js/commit/)
 
 ### Hi there! 👋
 
