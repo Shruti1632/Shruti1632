@@ -3,7 +3,7 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Shruti1632/ama)
 [![GitHub watchers](https://badgen.net/github/watchers/Shruti1632/Strapdown.js/)](https://GitHub.com/Shruti1632/StrapDown.js/watchers/)
-[![GitHub commits](https://badgen.net/github/commits/Shruti1632/Strapdown.js)](https://GitHub.com/Shruti1632/StrapDown.js/commit/)
+
 
 ### Hi there! 👋
 
