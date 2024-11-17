@@ -36,8 +36,10 @@
     <img src="https://skillicons.dev/icons?i=gcp,linux,arduino,django,flask,gradle,kali,kubernetes,wordpress,html,css,java,js,py,c,r,aws,mongodb,mysql,vscode,androidstudio,firebase,eclipse,git,angular,nodejs,php,raspberrypi,stackoverflow,ubuntu" />
   </a>
 </p>
+<br>
+  <h2> My Contributions</h2>
 <div align="center">
-  
+
 ![snake gif](https://github.com/Shruti1632/Shruti1632/blob/output/github-snake-dark.svg)
 
 </div>
