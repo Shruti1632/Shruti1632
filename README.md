@@ -37,4 +37,4 @@
   </a>
 </p>
 
-![Github Snake Contribution Grid](./dist/snake.svg)
+![GitHub Snake Contribution Grid](./dist/snake.svg)
