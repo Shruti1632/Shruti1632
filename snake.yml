@@ -2,11 +2,7 @@ name: Generate Snake Game
 
 on:
   # Trigger the workflow every time a commit is pushed to the main branch
-  push:
-    branches:
-      - main
-  # Schedule the workflow to run every 24 hours
-  schedule:
+   schedule:
     - cron: "0 0 * * *"
 
 jobs:
