@@ -1,9 +1,13 @@
 name: Generate Snake Game
 
 on:
-  # Schedule the workflow to run automatically at regular intervals
+  # Trigger the workflow every time a commit is pushed to the main branch
+  push:
+    branches:
+      - main
+  # Schedule the workflow to run every 24 hours
   schedule:
-    - cron: "0 0 * * *"  # Runs every day at midnight (UTC)
+    - cron: "0 0 * * *"
 
 jobs:
   build:
@@ -12,12 +16,14 @@ jobs:
       - name: Checkout the repository
         uses: actions/checkout@v2
       - name: Generate Snake Game from GitHub Contribution Grid
+        uses: Platane/snk@v2
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: Shruti1632  # Your GitHub username
+          github_user_name: Shruti1632
+          outputs: dist/snake.svg
 
       - name: Upload Snake Game
-        uses: actions/upload-artifact@v3  # Updated to v3
+        uses: actions/upload-artifact@v3
         with:
           name: snake-game
           path: dist/snake.svg
