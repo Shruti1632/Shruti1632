@@ -29,7 +29,7 @@
 
 
 
-### Languages and Tools
+### Languages and Tools💡
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -37,7 +37,7 @@
   </a>
 </p>
 <br>
-  <h2> My Contributions</h2>
+  <h2> My Contributions💎 </h2>
 <div align="center">
 
 ![snake gif](https://github.com/Shruti1632/Shruti1632/blob/output/github-snake.svg)
