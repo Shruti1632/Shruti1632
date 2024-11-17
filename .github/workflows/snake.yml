@@ -19,7 +19,7 @@ jobs:
         uses: Platane/snk@v2
         with:
           github_user_name: Shruti1632
-          output: dist/snake.svg
+          outputs: dist/snake.svg
 
       - name: Upload Snake Game
         uses: actions/upload-artifact@v3
