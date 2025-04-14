@@ -11,11 +11,11 @@
 
 👩‍🎓 Welcome to my GitHub profile! I’m Shruti Pawar, a passionate and driven software developer dedicated to crafting impactful and scalable digital solutions. With a strong foundation in both creative problem-solving and technical expertise, I transform ideas into innovative and high-performance applications.
 
-🌐 As a firm believer in the transformative potential of technology, I specialize in building responsive, intuitive, and user-centric software. My experience spans **front-end development** with HTML, CSS, and JavaScript, and **back-end systems** using Python, Java, and Bash. Additionally, I am skilled in WordPress, empowering me to deliver rich, content-driven websites. My work in Linux environments allows me to fine-tune system performance and optimize operations.
+🌐 As a firm believer in the transformative potential of technology, I specialize in building responsive, intuitive, and user-centric software. My experience spans front-end development with HTML, CSS, and JavaScript, and robust back-end systems using Java, Python, and Bash. Additionally, I am skilled in WordPress, empowering me to deliver rich, content-driven websites. My work in Linux environments allows me to fine-tune system performance and optimize operations.
 
-🚀 Over the last five years, I have been on a continuous journey to refine my skills and adapt to emerging technologies. Whether developing sophisticated **AI/ML** models or architecting scalable **cloud solutions** on platforms like AWS and Google Cloud, I am committed to staying at the forefront of technological advancements. I apply **DevOps** practices with tools like Docker, Kubernetes, Jenkins, and Terraform, driving automation and streamlining infrastructure management for increased operational efficiency.
+🚀 Over the last five years, I have been on a continuous journey to refine my skills and adapt to emerging technologies. Whether developing sophisticated AI/ML models or architecting scalable cloud solutions on platforms like AWS and Google Cloud, I am committed to staying at the forefront of technological advancements. I apply DevOps practices with tools like Docker, Kubernetes, Jenkins, and Terraform, driving automation and streamlining infrastructure management for increased operational efficiency.
 
-🔒 My expertise extends to **cybersecurity**, where I specialize in network security, cloud security, and ethical hacking. I hold certifications in **Cisco CyberOps**, **CompTIA Security+**, and **CCNA**, and am well-versed in tools like Wireshark and Kali Linux for network analysis, vulnerability assessment, and proactive threat mitigation. My experience in Cisco Security ensures that I can develop and implement robust, secure technology systems.
+🔒 My expertise extends to cybersecurity, where I specialize in network security, cloud security, and ethical hacking. I hold certifications in Cisco CyberOps, CompTIA Security+, and CCNA, and am well-versed in tools like Wireshark and Kali Linux for network analysis, vulnerability assessment, and proactive threat mitigation. My experience in Cisco Security ensures that I can develop and implement robust, secure technology systems.
 
 💭 I approach each project with a creative mindset, striving to craft solutions that are not only functional but also elegant and efficient. I believe in the power of clean, maintainable code that stands the test of time and scales with the needs of the user.
 
@@ -23,7 +23,7 @@
 
 🌱 Outside of coding, you’ll find me exploring the outdoors, tinkering with electronics, or experimenting with new recipes. I approach both technology and life with a sense of curiosity, always learning and embracing new challenges.
 
-⌨️ GitHub is my platform to collaborate, innovate, and contribute to the vibrant global developer community. I’m always open to new connections and opportunities to build something extraordinary. **Let's collaborate and create something impactful!**
+⌨ GitHub is my platform to collaborate, innovate, and contribute to the vibrant global developer community. I’m always open to new connections and opportunities to build something extraordinary. Let's collaborate and create something impactful!
 
 > *"Turning caffeine into code, one line at a time."* 🚀👨‍💻
 
