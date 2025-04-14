@@ -9,6 +9,7 @@
 
 ### Hi there! 👋
 
+<p align="justify">
 👩‍🎓 Welcome to my GitHub profile! I’m Shruti Pawar, a passionate and driven software developer dedicated to crafting impactful and scalable digital solutions. With a strong foundation in both creative problem-solving and technical expertise, I transform ideas into innovative and high-performance applications.
 
 🌐 As a firm believer in the transformative potential of technology, I specialize in building responsive, intuitive, and user-centric software. My experience spans front-end development with HTML, CSS, and JavaScript, and robust back-end systems using Java, Python, and Bash. Additionally, I am skilled in WordPress, empowering me to deliver rich, content-driven websites. My work in Linux environments allows me to fine-tune system performance and optimize operations.
@@ -24,6 +25,7 @@
 🌱 Outside of coding, you’ll find me exploring the outdoors, tinkering with electronics, or experimenting with new recipes. I approach both technology and life with a sense of curiosity, always learning and embracing new challenges.
 
 ⌨ GitHub is my platform to collaborate, innovate, and contribute to the vibrant global developer community. I’m always open to new connections and opportunities to build something extraordinary. Let's collaborate and create something impactful!
+</p>
 
 > *"Turning caffeine into code, one line at a time."* 🚀👨‍💻
 
