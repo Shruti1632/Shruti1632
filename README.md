@@ -9,19 +9,21 @@
 
 ### Hi there! 👋
 
-👩‍🎓 Welcome to my GitHub profile! I'm Shruti Pawar, a passionate software developer on a journey to craft immersive digital experiences. With a blend of creativity, code, and coffee, I strive to turn ideas into beautifully functional websites and applications.
+👩‍🎓 Welcome to my GitHub profile! I’m Shruti Pawar, a passionate and driven software developer dedicated to crafting impactful and scalable digital solutions. With a strong foundation in both creative problem-solving and technical expertise, I transform ideas into innovative and high-performance applications.
 
-🌐 As a firm believer in the power of the web, I specialize in designing and developing responsive, user-friendly websites that make a lasting impact. From elegant front-end designs that captivate users at first glance, to robust back-end systems that ensure seamless functionality, I'm committed to delivering top-notch solutions.
+🌐 As a firm believer in the transformative potential of technology, I specialize in building responsive, intuitive, and user-centric software. My experience spans front-end development with HTML, CSS, and JavaScript, and robust back-end systems using Python, Java, and Bash. Additionally, I am skilled in WordPress, empowering me to deliver rich, content-driven websites. My work in Linux environments allows me to fine-tune system performance and optimize operations.
 
-🚀 My code journey began 5 years ago, and since then I've been on a continuous quest to master the latest technologies and best practices in the ever-evolving web landscape. Whether it's harnessing the potential of HTML, CSS, and JavaScript for stunning user interfaces or exploring the world of responsive design and accessibility, I'm always eager to expand my skill set.
+🚀 Over the last five years, I have been on a continuous journey to refine my skills and adapt to emerging technologies. Whether developing sophisticated AI/ML models or architecting scalable cloud solutions on platforms like AWS and Google Cloud, I am committed to staying at the forefront of technological advancements. I apply DevOps practices with tools like Docker, Kubernetes, Jenkins, and Terraform, driving automation and streamlining infrastructure management for increased operational efficiency.
 
-💭 Creativity fuels my development process. I thrive on translating unique concepts and design visions into clean, efficient code. Every project I undertake is a chance to fuse imagination with innovation, resulting in digital solutions that are both visually captivating and functionally robust.
+🔒 My expertise extends to cybersecurity, where I specialize in network security, cloud security, and ethical hacking. I hold certifications in Cisco CyberOps, CompTIA Security+, and CCNA, and am well-versed in tools like Wireshark and Kali Linux for network analysis, vulnerability assessment, and proactive threat mitigation. My experience in Cisco Security ensures that I can develop and implement robust, secure technology systems.
 
-🔧 Collaborative by nature, I relish the opportunity to work alongside fellow developers, designers, and stakeholders. I believe that the best results are achieved through open communication, shared ideas, and a collective dedication to excellence.
+💭 I approach each project with a creative mindset, striving to craft solutions that are not only functional but also elegant and efficient. I believe in the power of clean, maintainable code that stands the test of time and scales with the needs of the user.
 
-🌱 Beyond coding, you'll often find me exploring the great outdoors, tinkering with electronics, or experimenting with a new recipe in the kitchen. Life, much like coding, is an adventure waiting to be explored, and I approach each day with the same enthusiasm and curiosity.
+🔧 I thrive in collaborative environments and value open communication with developers, designers, and stakeholders. I am passionate about the synergy that arises from shared ideas and diverse expertise, leading to exceptional outcomes.
 
-⌨️ GitHub provides me with the perfect platform to collaborate, learn, and contribute to the vibrant developer community. Let's connect, collaborate, and create something extraordinary together! 🌟
+🌱 Outside of coding, you’ll find me exploring the outdoors, tinkering with electronics, or experimenting with new recipes. I approach both technology and life with a sense of curiosity, always learning and embracing new challenges.
+
+⌨️ GitHub is my platform to collaborate, innovate, and contribute to the vibrant global developer community. I’m always open to new connections and opportunities to build something extraordinary. Let's collaborate and create something impactful!
 
 "Turning caffeine into code, one line at a time." 🚀👨‍💻
 
