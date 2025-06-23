@@ -43,7 +43,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gcp,linux,arduino,django,flask,gradle,kali,kubernetes,terraform,ansible,jenkins,docker,grafana,prometheus,wordpress,html,css,java,js,py,bash,c,r,aws,mongodb,mysql,vscode,androidstudio,firebase,eclipse,git,angular,nodejs,php,raspberrypi,stackoverflow,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=gcp,arduino,django,flask,gradle,kali,kubernetes,terraform,ansible,jenkins,docker,grafana,prometheus,wordpress,html,css,java,js,jquery,express,fastapi,py,bash,c,r,aws,mongodb,mysql,postgres,bootstrap,vscode,androidstudio,pycharm,firebase,eclipse,linux,git,tailwind,angular,nodejs,php,raspberrypi,stackoverflow,ubuntu" />
   </a>
 </p>
 
