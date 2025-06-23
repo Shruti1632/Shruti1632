@@ -47,25 +47,6 @@
   </a>
 </p>
 
-<p align="center">
-  <!-- SAP & Enterprise -->
-  <img src="https://img.shields.io/badge/SAP-ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
-  <img src="https://img.shields.io/badge/SAP%20S4%20HANA-Enterprise%20Suite-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
-  <img src="https://img.shields.io/badge/ADT-Eclipse%20ABAP-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" />
-  
-  <!-- SAP Functional Tools -->
-  <img src="https://img.shields.io/badge/SmartForms-SAP-lightblue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LSMW-Data%20Migration-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/BDC-Batch%20Data%20Communication-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/BAPI-Business%20API-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/BADI-Business%20Add-In-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CDS%20Views-Core%20Data%20Services-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AMDP-Managed%20Database%20Procedures-blue?style=for-the-badge" />
-
-  <!-- Other Specialized Tools -->
-  <img src="https://img.shields.io/badge/Wireshark-Network%20Analyzer-4169E1?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Looker-Data%20Visualization-4285F4?style=for-the-badge&logo=looker&logoColor=white" />
-</p>
 
 <br>
   <h2> My Contributions✨ </h2>
