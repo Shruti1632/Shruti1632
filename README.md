@@ -24,9 +24,9 @@
 <p align="justify"> 
 ☁️ I am a certified AWS Solutions Architect and Google Cloud Certified professional. I specialize in designing and deploying scalable cloud solutions using services like EC2, S3, RDS, VPC, Lambda, Route 53, and ALB. On the Google Cloud side, I have hands-on expertise in BigQuery, Looker, Cloud Storage, IAM Roles, App Engine, Pub/Sub, and Prometheus. My experience in multi-cloud environments has enabled me to build resilient architectures that optimize performance, ensure security, and maintain high availability. </p> 
 <p align="justify"> 
-🛠 I follow modern DevOps practices using tools such as Docker, Docker Swarm, Kubernetes, Jenkins, Terraform, Ansible, Maven, Grafana, and Prometheus. These tools help streamline infrastructure management, automate deployment pipelines, and maintain observability, leading to faster delivery and higher reliability of software systems. </p> 
+🛠️ I follow modern DevOps practices using tools such as Docker, Docker Swarm, Kubernetes, Jenkins, Terraform, Ansible, Maven, Grafana, and Prometheus. These tools help streamline infrastructure management, automate deployment pipelines, and maintain observability, leading to faster delivery and higher reliability of software systems. </p> 
 <p align="justify"> 
-📘 I also specialize in SAP ABAP development, working with core concepts such as modularization techniques, internal tables, data dictionary objects, and custom reporting formats like ALV, classical, and interactive reports. I have experience in SAP S/4HANA environments and ABAP on HANA development using Eclipse-based ABAP Development Tools (ADT). My SAP work includes data migration tools such as LSMW, BDC, and DMC, and implementing enhancements through BADI and BAPI for customized business logic. I also utilize CDS views, AMDP, and SmartForms to deliver high-performance, modern enterprise solutions. </p> 
+📘 I also specialize in SAP ABAP development, working with core concepts such as modularization techniques, internal tables, data dictionary objects, and custom reporting formats like ALV, classical, and interactive reports. I have experience in SAP S/4HANA environments and ABAP on HANA development using Eclipse-based ABAP Development Tools. My SAP work includes data migration tools such as LSMW, BDC, and DMC, and implementing enhancements through BADI and BAPI for customized business logic. I also utilize CDS views, AMDP, and SmartForms to deliver high-performance, modern enterprise solutions. </p> 
 <p align="justify"> 
 🌱 Outside of coding, you’ll find me exploring the outdoors, tinkering with electronics, or experimenting with new recipes. I approach both technology and life with a sense of curiosity, always learning and embracing new challenges. </p> <p align="justify"> ⌨ GitHub is my platform to collaborate, innovate, and contribute to the vibrant global developer community. I’m always open to new connections and opportunities to build something extraordinary. Let's collaborate and create something impactful! </p>
 
@@ -47,7 +47,23 @@
 <br>
   <h2> My Contributions✨ </h2>
 <div align="center">
+<!-- Additional Tools (not in skillicons.dev) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker_Swarm-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAP_ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
+</p>
 
+<br>
+<h2> My Contributions✨ </h2>
+<div align="center">
 ![snake gif](https://github.com/Shruti1632/Shruti1632/blob/output/github-snake.svg)
 
 </div>
