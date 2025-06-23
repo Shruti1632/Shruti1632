@@ -47,6 +47,6 @@
 <br>
   <h2> My Contributions✨ </h2>
 <div align="center">
-  ![Snake animation](https://raw.githubusercontent.com/Shruti1632/Shruti1632/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Shruti1632/Shruti1632/blob/output/github-snake.svg)
 </div>
 
