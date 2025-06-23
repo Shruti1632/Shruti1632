@@ -12,23 +12,25 @@
 <p align="justify"> 
 👩‍🎓 Welcome to my GitHub profile! I’m Shruti Pawar, a passionate and driven software developer dedicated to crafting impactful and scalable digital solutions. With a strong foundation in both creative problem-solving and technical expertise, I transform ideas into innovative and high-performance applications. </p> 
 <p align="justify"> 
-🌐 As a firm believer in the transformative potential of technology, I specialize in building responsive, intuitive, and user-centric software. My experience spans front-end development with HTML, CSS, and JavaScript, and robust back-end systems using Java, Python, and Bash. Additionally, I am skilled in WordPress, enabling me to deliver rich, content-driven websites. My work in Linux environments allows me to fine-tune system performance and optimize operations. I am also well-versed in SQL for database management and have built dynamic Android applications using modern tools and frameworks. </p> 
+🌐 As a firm believer in the transformative potential of technology, I specialize in building responsive, intuitive and user-centric software. My experience spans front-end development with HTML, CSS, and JavaScript and robust back-end systems using Java, Python and Bash. Additionally, I am skilled in WordPress, enabling me to deliver rich, content-driven websites. My work in Linux environments allows me to fine-tune system performance and optimize operations. I am also well-versed in SQL for database management and have built dynamic Android applications using modern tools and frameworks. </p> 
 <p align="justify"> 
-🚀 Over the last five years, I have been on a continuous journey to refine my skills and adapt to emerging technologies. Whether developing sophisticated AI/ML models or architecting scalable software systems, I am committed to staying at the forefront of technological advancements. </p> 
+🚀 Over the last 3 years, I have been on a continuous journey to refine my skills and adapt to emerging technologies. Whether developing sophisticated AI/ML models or architecting scalable software systems, I'm committed to staying at the forefront of technological advancements. </p> 
 <p align="justify"> 
-🔧 I thrive in collaborative environments and value open communication with developers, designers, and stakeholders. I am passionate about the synergy that arises from shared ideas and diverse expertise, leading to exceptional outcomes. </p> 
+🔧 I thrive in collaborative environments and value open communication with developers, designers and stakeholders. I am passionate about the synergy that arises from shared ideas and diverse expertise, leading to exceptional outcomes. </p> 
 <p align="justify"> 
-🔒 My expertise extends to cybersecurity, where I specialize in network security, cloud security, and ethical hacking. I hold certifications in Cisco CyberOps, CompTIA Security+, and CCNA, and am well-versed in tools like Wireshark and Kali Linux for network analysis, vulnerability assessment, and proactive threat mitigation. My experience in Cisco Security ensures that I can develop and implement robust, secure technology systems. </p> 
+🔒 My expertise extends to cybersecurity, where I specialize in network security, cloud security and ethical hacking. I hold certifications in Cisco CyberOps, CompTIA Security+ and CCNA also am well-versed in tools like Wireshark and Kali Linux for network analysis, vulnerability assessment and proactive threat mitigation. My experience in Cisco Security ensures that I can develop and implement robust, secure technology systems. </p> 
 <p align="justify"> 
 💭 I approach each project with a creative mindset, striving to craft solutions that are not only functional but also elegant and efficient. I believe in the power of clean, maintainable code that stands the test of time and scales with the needs of the user. </p> 
 <p align="justify"> 
-☁️ I am a certified AWS Solutions Architect and Google Cloud Certified professional. I specialize in designing and deploying scalable cloud solutions using services like EC2, S3, RDS, VPC, Lambda, Route 53, and ALB. On the Google Cloud side, I have hands-on expertise in BigQuery, Looker, Cloud Storage, IAM Roles, App Engine, Pub/Sub, and Prometheus. My experience in multi-cloud environments has enabled me to build resilient architectures that optimize performance, ensure security, and maintain high availability. </p> 
+☁️ I am a certified AWS Solutions Architect and Google Cloud Certified professional. I specialize in designing and deploying scalable cloud solutions using services like EC2, S3, RDS, VPC, Lambda, Route 53 and ALB. On the Google Cloud side, I have hands-on expertise in BigQuery, Looker, Cloud Storage, IAM Roles, App Engine, Pub/Sub and Prometheus. My experience in multi-cloud environments has enabled me to build resilient architectures that optimize performance, ensure security and maintain high availability. </p> 
 <p align="justify"> 
-🛠️ I follow modern DevOps practices using tools such as Docker, Docker Swarm, Kubernetes, Jenkins, Terraform, Ansible, Maven, Grafana, and Prometheus. These tools help streamline infrastructure management, automate deployment pipelines, and maintain observability, leading to faster delivery and higher reliability of software systems. </p> 
+🛠️ I follow modern DevOps practices using tools such as Docker, Kubernetes, Jenkins, Terraform, Ansible, Maven and Grafana. These tools help streamline infrastructure management, automate deployment pipelines and maintain observability, leading to faster delivery and higher reliability of software systems. </p> 
 <p align="justify"> 
-📘 I also specialize in SAP ABAP development, working with core concepts such as modularization techniques, internal tables, data dictionary objects, and custom reporting formats like ALV, classical, and interactive reports. I have experience in SAP S/4HANA environments and ABAP on HANA development using Eclipse-based ABAP Development Tools. My SAP work includes data migration tools such as LSMW, BDC, and DMC, and implementing enhancements through BADI and BAPI for customized business logic. I also utilize CDS views, AMDP, and SmartForms to deliver high-performance, modern enterprise solutions. </p> 
+📘 I also specialize in SAP ABAP development, working with core concepts such as modularization techniques, internal tables, data dictionary objects and custom reporting formats like ALV, classical and interactive reports. I have experience in SAP S/4HANA environments and ABAP on HANA development using Eclipse-based ABAP Development Tools. My SAP work includes data migration tools such as LSMW, BDC, DMC and implementing enhancements through BADI and BAPI for customized business logic. I also utilize CDS views, AMDP and SmartForms to deliver high-performance, modern enterprise solutions. </p> 
 <p align="justify"> 
-🌱 Outside of coding, you’ll find me exploring the outdoors, tinkering with electronics, or experimenting with new recipes. I approach both technology and life with a sense of curiosity, always learning and embracing new challenges. </p> <p align="justify"> ⌨ GitHub is my platform to collaborate, innovate, and contribute to the vibrant global developer community. I’m always open to new connections and opportunities to build something extraordinary. Let's collaborate and create something impactful! </p>
+🌱 Outside of coding, you’ll find me exploring the outdoors, tinkering with electronics or experimenting with new recipes. I approach both technology and life with a sense of curiosity, always learning and embracing new challenges. </p> 
+<p align="justify"> 
+⌨ GitHub is my platform to collaborate, innovate, and contribute to the vibrant global developer community. I’m always open to new connections and opportunities to build something extraordinary. Let's collaborate and create something impactful! </p>
 
 > *"Turning caffeine into code, one line at a time."* 🚀👨‍💻
 
@@ -41,9 +43,30 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gcp,linux,arduino,django,flask,gradle,kali,kubernetes,wordpress,html,css,java,js,py,c,r,aws,mongodb,mysql,vscode,androidstudio,firebase,eclipse,git,angular,nodejs,php,raspberrypi,stackoverflow,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=gcp,linux,arduino,django,flask,gradle,kali,kubernetes,terraform,ansible,jenkins,docker,grafana,prometheus,wordpress,html,css,java,js,py,bash,c,r,aws,mongodb,mysql,vscode,androidstudio,firebase,eclipse,git,angular,nodejs,php,raspberrypi,stackoverflow,ubuntu" />
   </a>
 </p>
+
+<p align="center">
+  <!-- SAP & Enterprise -->
+  <img src="https://img.shields.io/badge/SAP-ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAP%20S4%20HANA-Enterprise%20Suite-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/ADT-Eclipse%20ABAP-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" />
+  
+  <!-- SAP Functional Tools -->
+  <img src="https://img.shields.io/badge/SmartForms-SAP-lightblue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LSMW-Data%20Migration-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BDC-Batch%20Data%20Communication-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BAPI-Business%20API-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BADI-Business%20Add-In-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CDS%20Views-Core%20Data%20Services-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AMDP-Managed%20Database%20Procedures-blue?style=for-the-badge" />
+
+  <!-- Other Specialized Tools -->
+  <img src="https://img.shields.io/badge/Wireshark-Network%20Analyzer-4169E1?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Looker-Data%20Visualization-4285F4?style=for-the-badge&logo=looker&logoColor=white" />
+</p>
+
 <br>
   <h2> My Contributions✨ </h2>
 <div align="center">
