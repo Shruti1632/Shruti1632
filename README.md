@@ -46,7 +46,8 @@
 </p>
 <br>
   <h2> My Contributions✨ </h2>
-<div align="center">
-![snake gif](
+  ![snake gif](
 https://github.com/Shruti1632/Shruti1632/blob/output/github-snake.svg
 )
+<div align="center">
+
