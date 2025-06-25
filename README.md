@@ -30,7 +30,7 @@
 <p align="justify"> 
 🌱 Outside of coding, you’ll often find me exploring the outdoors, experimenting with new recipes or painting. I’m also actively involved in social initiatives through the NGO Shasya Foundation, where I contribute to community outreach and volunteering activities. I approach both technology and life with curiosity, empathy and a continuous desire to grow. </p> 
 <p align="justify"> 
-⌨ GitHub is my platform to collaborate, innovate and contribute to the vibrant global developer community. I’m always open to new connections and opportunities to build something extraordinary. Let's collaborate and create something impactful! </p>
+⌨ GitHub is where I share my work, collaborate with developers worldwide and contribute to meaningful open-source projects. I’m always open to new connections, knowledge exchange and opportunities that challenge me to grow. Let’s connect and create impactful solutions that make a difference! </p>
 
 > *"Turning caffeine into code, one line at a time."* 🚀👨‍💻
 
