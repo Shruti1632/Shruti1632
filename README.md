@@ -28,7 +28,7 @@
 <p align="justify"> 
 📘 I also specialize in SAP ABAP development, working with core concepts such as modularization techniques, internal tables, data dictionary objects and custom reporting formats like ALV, classical and interactive reports. I'm familiar with SAP S/4HANA environments and ABAP on HANA development using Eclipse-based ABAP Development Tools. My SAP work includes data migration tools such as LSMW, BDC, DMC and implementing enhancements through BADI and BAPI for customized business logic. I also utilize CDS views, AMDP and SmartForms to deliver high-performance, modern enterprise solutions. </p> 
 <p align="justify"> 
-🌱 Outside of coding, you’ll find me exploring the outdoors, tinkering with electronics or experimenting with new recipes. I approach both technology and life with a sense of curiosity, always learning and embracing new challenges. </p> 
+🌱 Outside of coding, you’ll often find me exploring the outdoors, experimenting with new recipes or painting. I’m also actively involved in social initiatives through the NGO Shasya Foundation, where I contribute to community outreach and volunteering activities. I approach both technology and life with curiosity, empathy and a continuous desire to grow. </p> 
 <p align="justify"> 
 ⌨ GitHub is my platform to collaborate, innovate, and contribute to the vibrant global developer community. I’m always open to new connections and opportunities to build something extraordinary. Let's collaborate and create something impactful! </p>
 
@@ -43,7 +43,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gcp,arduino,django,flask,gradle,kali,kubernetes,terraform,ansible,jenkins,docker,grafana,prometheus,wordpress,html,css,java,js,jquery,express,fastapi,python,bash,c,r,aws,mongodb,mysql,postgres,typescript,bootstrap,vscode,androidstudio,pycharm,firebase,eclipse,linux,git,tailwind,angular,nodejs,php,raspberrypi,stackoverflow,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=gcp,arduino,django,flask,gradle,kali,kubernetes,terraform,ansible,jenkins,docker,grafana,prometheus,wordpress,html,css,java,js,jquery,express,fastapi,python,bash,c,r,aws,mongodb,mysql,postgres,typescript,bootstrap,vscode,androidstudio,pycharm,firebase,eclipse,linux,git,tailwind,angular,nodejs,php,raspberrypi,stackoverflow,oracle" />
   </a>
 </p>
 
